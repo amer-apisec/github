@@ -28,7 +28,7 @@ jobs:
         with:
           apisec-username: "amer@apisec.ai"
           apisec-password: "bismillah@786"
-          apisec-project: "13th may"
+          apisec-project: "1stjune"
           apisec-profile: "Master"
           apisec-region: "Super_1"
     
