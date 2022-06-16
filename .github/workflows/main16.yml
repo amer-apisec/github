@@ -27,7 +27,7 @@ jobs:
         uses: apisec-inc/apisec-run-scan@v1.0.3
         with:
           apisec-username: "amer@apisec.ai"
-          apisec-password: "bismillah@786"
+          apisec-password: "Bismillah@786"
           apisec-project: "NB16"
           apisec-profile: "Master"
           apisec-region: "Super_1"
